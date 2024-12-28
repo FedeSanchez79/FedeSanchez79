@@ -6,6 +6,7 @@ Fast learner and eager to explore new technologies. Able to switch between perfe
 
 Steadily growing into people management and recently into <img src="./images/javascript.png" alt="javascript logo" height="20"> Javascript.
 
+<div align="center" width="100">
 ## 👨‍💻 Languages and Tools:
 
 <!-- Languages -->
@@ -23,7 +24,6 @@ Steadily growing into people management and recently into <img src="./images/jav
   <!-- Frameworks -->
   </br>
   <h3>Frameworks</h3>
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="60px" alt="NodeJS">
     &nbsp;&nbsp;&nbsp;&nbsp;
   <img
@@ -50,6 +50,8 @@ Steadily growing into people management and recently into <img src="./images/jav
 </br>
 </br>
 </br>
+
+</div>
 
 <section align="center">
     <h3>Contact with me on:</h3>
