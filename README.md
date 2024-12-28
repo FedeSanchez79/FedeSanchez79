@@ -65,7 +65,9 @@ Steadily growing into people management and recently into <img src="./images/jav
 
 <h1>Statistic</h1>
 
+<div align="center" width="100">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=FedeSanchez79&theme=tokyonight&hide_border=true&date_format=%5BY%20%5DM%20j&background=FFFFFF&currStreakNum=71A5FD&currStreakLabel=71A5FD&dates=61D9E1" alt="FedeSanchez79 GitHub Streak">
+</div>
 
 Credit: [FedeSanchez79](https://github.com/FedeSanchez79)
 
