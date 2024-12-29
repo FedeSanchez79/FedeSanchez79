@@ -30,7 +30,7 @@ Steadily growing into people management and recently into <img src="./images/jav
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" width="60px" alt="npm">
     &nbsp;&nbsp;&nbsp;&nbsp;
   <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-plain-wordmark.svg" width="60px" alt="Bootstrap">
+    src="./images/bootstrap.png" width="60px" alt="Bootstrap">
     &nbsp;&nbsp;&nbsp;&nbsp;
 
   </br>
@@ -38,7 +38,7 @@ Steadily growing into people management and recently into <img src="./images/jav
   <!-- Tools -->
   </br>
   <h3>Tools</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="60px" alt="Git">
+  <img src="./images/github.jpg" width="60px" alt="Git">
     &nbsp;&nbsp;&nbsp;&nbsp;  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-plain-wordmark.svg" width="60px" alt="Trello">
     &nbsp;&nbsp;&nbsp;&nbsp;
@@ -63,11 +63,26 @@ Steadily growing into people management and recently into <img src="./images/jav
     </div>
 </section>
 
-<h1>Statistic</h1>
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=FedeSanchez79&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="FedeSanchez79 streak" src="https://github-readme-streak-stats.herokuapp.com/?user=FedeSanchez79&theme=dark&hide_border=false" /> 
+</td>
 
-<div align="center" width="100">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=FedeSanchez79&theme=tokyonight&hide_border=true&date_format=%5BY%20%5DM%20j&background=FFFFFF&currStreakNum=71A5FD&currStreakLabel=71A5FD&dates=61D9E1" alt="FedeSanchez79 GitHub Streak">
-</div>
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=FedeSanchez79&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
+
+</br>
+</br>
+</br>
 
 Credit: [FedeSanchez79](https://github.com/FedeSanchez79)
 
