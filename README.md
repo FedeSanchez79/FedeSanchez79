@@ -9,65 +9,107 @@ Steadily growing into people management and recently into <img src="./images/jav
 <div align="center" width="100">
 ## 👨‍💻 Languages and Tools:
 
-<!-- Languages -->
- </br>
-  <h3>Languages</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="60px" alt="Javascript">
-  <p> <b>Javascript</b> </p> 
-    &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="60px" alt="HTML5">
-  <p> <b>HTML 5</b> </p> 
-    &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="60px" alt="css3">
-  <p> <b>Css3</b> </p> 
-    &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="60px" alt="sass">
-  <p> <b>Sass</b> </p> 
-    &nbsp;&nbsp;&nbsp;&nbsp;
-  
-  <!-- Frameworks -->
-  </br>
-  <h3>Frameworks</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="60px" alt="NodeJS">
-  <p> <b>NodeJS</b> </p> 
-    &nbsp;&nbsp;&nbsp;&nbsp;
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" width="60px" alt="npm">
-    <p> <b>Npm</b> </p> 
-    &nbsp;&nbsp;&nbsp;&nbsp;
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-plain-wordmark.svg" width="60px" alt="Bootstrap">
-    <p> <b>Bootstrap</b> </p> 
-    &nbsp;&nbsp;&nbsp;&nbsp;
+  <div align="center">
+    <p align="center">
+      <table>
+        <tr>
+          <td align="center">
+            <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60">
+            <p><b>JavaScript</b></p>      
+          </td>
+          <td align="center">
+            <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" alt="TypeScript" width="60" height="60">
+            <p> <b>TypeScript</b> </p> 
+          </td>
+          <td align="center">
+            <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" alt="PHP" width="60" height="60">
+            <p> <b>PHP</b> </p>
+          </td>
+        </tr>
+      </table>
+    </p>
+  </div>
 
-  </br>
-  
-  <!-- Tools -->
-  </br>
-  <h3>Tools</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="60px" alt="Git">
-  <p> <b>Git</b> </p> 
-    &nbsp;&nbsp;&nbsp;&nbsp;  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-plain-wordmark.svg" width="60px" alt="Trello">
-  <p> <b>Trello</b> </p> 
-    &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" width="60px" alt="VS Code">
-  <p> <b>VS Code</b> </p> 
-    &nbsp;&nbsp;&nbsp;&nbsp;
-  
-</div>
+  ## FrontEnd
+  <div align="center">
+    <p align="center">
+      <table>
+        <tr>
+          <td align="center">
+            <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60">
+            <p> <b>HTML 5</b> </p>                
+          </td>
+          <td align="center">
+            <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS3" width="60" height="60">
+            <p> <b>CSS 3</b> </p>
+          </td>
+            <td align="center">
+              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" alt="sass" width="60" height="60">
+              <p> <b>Sass</b> </p> 
+          </td>
+          <td align="center">
+            <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="Javascript" width="60" height="60">
+            <p> <b>Javascript</b> </p>      
+          </td>
+        </tr>
+      </table>
+    </p>
+  </div>
+      
+  ## Frameworks
+  <div align="center">
+    <p align="center">
+      <table>
+        <tr>
+          <td align="center">
+            <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Nodejs" width="60" height="60">
+            <p> <b>Node.js</b> </p>      
+          </td>
+          <td align="center">
+            <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="60" height="60">
+              <p> <b>NPM</b> </p> 
+          </td>
+          <td align="center">
+            <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="60" height="60">
+            <p> <b>Bootstrap</b> </p>
+          </td>
+        </tr>
+      </table>
+    </p>
+  </div>
+        
+  ## Tools
+  <div align="center">
+    <p align="center">
+      <table>
+        <tr>
+          <td align="center">
+            <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" alt="Git" width="60" height="60">
+            <p> <b>Git</b> </p>      
+          </td>
+          <td align="center">
+            <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="GitHub" width="60" height="60">
+            <p> <b>GitHub</b> </p> 
+          </td>
+          <td align="center">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg"  alt="VS Code" width="60" height="60">
+            <p> <b>VS Code</b> </p> 
+          </td>
+        </tr>
+      </table>
+    </p>
+  </div>
 
 </br>
 </br>
 </br>
 
 <section align="center">
-    <h3>Contact with me on:</h3>
+  <h3>Contact with me on:</h3>
     <div>
-        <a href="https://www.linkedin.com/in/federico-sanchez-ok"><img width="30px" height="30px" src="./images/LinkedIn.jpg" alt="LinkedIn"></a>
-        &nbsp;
-        <a href="mailto://fedesanchez@gmail.com"><img width="30px" height="30px" src="./images/gmail.png" alt="Email"></a>
-        &nbsp;
+      <a href="https://www.linkedin.com/in/federico-sanchez-ok"><img width="30px" height="30px" src="./images/LinkedIn.jpg" alt="LinkedIn"></a>
+      </br>
+      <a href="mailto://fedesanchez@gmail.com"><img width="30px" height="30px" src="./images/gmail.png" alt="Email"></a>
     </div>
 </section>
 
@@ -76,20 +118,16 @@ Steadily growing into people management and recently into <img src="./images/jav
 </br>
 
 <table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=FedeSanchez79&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="FedeSanchez79 streak" src="https://github-readme-streak-stats.herokuapp.com/?user=FedeSanchez79&theme=dark&hide_border=false" /> 
-</td>
-
-<td width="50%" align="center">
-
-  <img align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=FedeSanchez79&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
+  <tr border="none">
+    <td width="50%" align="center">
+      <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=FedeSanchez79&theme=dark&show_icons=true&count_private=true" />
+</br>
+      <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="FedeSanchez79 streak" src="https://github-readme-streak-stats.herokuapp.com/?user=FedeSanchez79&theme=dark&hide_border=false" /> 
+    </td>
+    <td width="50%" align="center">
+      <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=FedeSanchez79&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+    </td>
+  </tr>
 </table>
 
 </br>
