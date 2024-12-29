@@ -51,8 +51,6 @@ Steadily growing into people management and recently into <img src="./images/jav
 </br>
 </br>
 
-</div>
-
 <section align="center">
     <h3>Contact with me on:</h3>
     <div>
@@ -63,15 +61,9 @@ Steadily growing into people management and recently into <img src="./images/jav
     </div>
 </section>
 
-<section align="center">
-    <h3>Contact with me on:</h3>
-    <div>
-        <a href="www.linkedin.com/in/federico-sanchez-ok"><img width="30px" height="30px" src="./images/LinkedIn.jpg" alt="LinkedIn"></a>
-        &nbsp;
-        <a href="mailto://fedesanchez@gmail.com"><img width="30px" height="30px" src="./images/gmail.png" alt="Email"></a>
-        &nbsp;
-    </div>
-</section>
+</br>
+</br>
+</br>
 
 <table align="center">
 <tr border="none">
@@ -90,6 +82,7 @@ Steadily growing into people management and recently into <img src="./images/jav
 </tr>
 </table>
 
+</br>
 </br>
 </br>
 
