@@ -9,27 +9,6 @@ Steadily growing into people management and recently into <img src="./images/jav
 <div align="center" width="100">
 ## 👨‍💻 Languages and Tools:
 
-  <div align="center">
-    <p align="center">
-      <table>
-        <tr>
-          <td align="center">
-            <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60">
-            <p><b>JavaScript</b></p>      
-          </td>
-          <td align="center">
-            <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" alt="TypeScript" width="60" height="60">
-            <p> <b>TypeScript</b> </p> 
-          </td>
-          <td align="center">
-            <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" alt="PHP" width="60" height="60">
-            <p> <b>PHP</b> </p>
-          </td>
-        </tr>
-      </table>
-    </p>
-  </div>
-
   ## FrontEnd
   <div align="center">
     <p align="center">
@@ -48,7 +27,7 @@ Steadily growing into people management and recently into <img src="./images/jav
               <p> <b>Sass</b> </p> 
           </td>
           <td align="center">
-            <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="Javascript" width="60" height="60">
+            <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60">
             <p> <b>Javascript</b> </p>      
           </td>
         </tr>
