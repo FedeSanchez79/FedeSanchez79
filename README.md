@@ -63,11 +63,35 @@ Steadily growing into people management and recently into <img src="./images/jav
     </div>
 </section>
 
-<h1>Statistic</h1>
+<section align="center">
+    <h3>Contact with me on:</h3>
+    <div>
+        <a href="www.linkedin.com/in/federico-sanchez-ok"><img width="30px" height="30px" src="./images/LinkedIn.jpg" alt="LinkedIn"></a>
+        &nbsp;
+        <a href="mailto://fedesanchez@gmail.com"><img width="30px" height="30px" src="./images/gmail.png" alt="Email"></a>
+        &nbsp;
+    </div>
+</section>
 
-<div align="center" width="100">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=FedeSanchez79&theme=tokyonight&hide_border=true&date_format=%5BY%20%5DM%20j&background=FFFFFF&currStreakNum=71A5FD&currStreakLabel=71A5FD&dates=61D9E1" alt="FedeSanchez79 GitHub Streak">
-</div>
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=FedeSanchez79&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="FedeSanchez79 streak" src="https://github-readme-streak-stats.herokuapp.com/?user=FedeSanchez79&theme=dark&hide_border=false" /> 
+</td>
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=FedeSanchez79&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
+
+</br>
+</br>
 
 Credit: [FedeSanchez79](https://github.com/FedeSanchez79)
 
