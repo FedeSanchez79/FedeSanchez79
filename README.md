@@ -36,8 +36,8 @@ Steadily growing into people management and recently into <img src="./images/jav
   </div>
 
   
-  ## Tools    
-  <div align="center">
+ ## Frameworks
+<div align="center">
     <p align="center">
       <table>
         <tr>
@@ -46,37 +46,39 @@ Steadily growing into people management and recently into <img src="./images/jav
             <p> <b>Node.js</b> </p>      
           </td>
           <td align="center">
-            <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="60" height="60">
-              <p> <b>NPM</b> </p> 
-          </td>
-          <td align="center">
             <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="60" height="60">
             <p> <b>Bootstrap</b> </p>
           </td>
         </tr>
       </table>
     </p>
-  </div>
-  <div align="center">
-    <p align="center">
-      <table>
-        <tr>
-          <td align="center">
-            <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" alt="Git" width="60" height="60">
-            <p> <b>Git</b> </p>      
+</div>
+  
+## Tools    
+<div align="center">
+  <p align="center">
+    <table>
+      <tr>
+        <td align="center">
+            <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="60" height="60">
+              <p> <b>NPM</b> </p> 
           </td>
-          <td align="center">
-            <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="GitHub" width="60" height="60">
-            <p> <b>GitHub</b> </p> 
-          </td>
-          <td align="center">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg"  alt="VS Code" width="60" height="60">
-            <p> <b>VS Code</b> </p> 
-          </td>
-        </tr>
-      </table>
-    </p>
-  </div>
+        <td align="center">
+          <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" alt="Git" width="60" height="60">
+          <p> <b>Git</b> </p>      
+        </td>
+        <td align="center">
+          <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="GitHub" width="60" height="60">
+          <p> <b>GitHub</b> </p> 
+        </td>
+        <td align="center">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg"  alt="VS Code" width="60" height="60">
+          <p> <b>VS Code</b> </p> 
+        </td>
+      </tr>
+    </table>
+  </p>
+</div>
 
 </br>
 </br>
