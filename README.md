@@ -34,8 +34,9 @@ Steadily growing into people management and recently into <img src="./images/jav
       </table>
     </p>
   </div>
-      
-  ## Frameworks
+
+  
+  ## Tools    
   <div align="center">
     <p align="center">
       <table>
@@ -56,8 +57,6 @@ Steadily growing into people management and recently into <img src="./images/jav
       </table>
     </p>
   </div>
-        
-  ## Tools
   <div align="center">
     <p align="center">
       <table>
