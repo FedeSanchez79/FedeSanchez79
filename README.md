@@ -4,7 +4,7 @@
 
 Fast learner and eager to explore new technologies. Able to switch between perfectionism and pragmatism. Believer in agile software development, team work and Clean Code. Always questioning the status quo and wanting to improve. Able and willing to think outside the box.
 
-Steadily growing into people management and recently into <img src="./images/javascript.png" alt="javascript logo" height="20"> Javascript.
+Steadily growing into people management and recently into <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript logo" height="20"> Javascript.
 
 <div align="center" width="100">
 ## 👨‍💻 Languages and Tools:
@@ -46,7 +46,7 @@ Steadily growing into people management and recently into <img src="./images/jav
             <p> <b>Node.js</b> </p>      
           </td>
           <td align="center">
-            <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="60" height="60">
+            <img src="./images/Bootstrap.svg" alt="Bootstrap" width="60" height="60">
             <p> <b>Bootstrap</b> </p>
           </td>
         </tr>
@@ -68,7 +68,7 @@ Steadily growing into people management and recently into <img src="./images/jav
           <p> <b>Git</b> </p>      
         </td>
         <td align="center">
-          <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="GitHub" width="60" height="60">
+          <img src="./images/github.svg" alt="GitHub" width="60" height="60">
           <p> <b>GitHub</b> </p> 
         </td>
         <td align="center">
