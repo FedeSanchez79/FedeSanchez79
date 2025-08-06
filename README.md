@@ -4,7 +4,7 @@
 
 Fast learner and eager to explore new technologies. Able to switch between perfectionism and pragmatism. Believer in agile software development, team work and Clean Code. Always questioning the status quo and wanting to improve. Able and willing to think outside the box.
 
-Steadily growing into people management and recently into <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript logo" height="20"> Javascript.
+Steadily growing into people management and recently into <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python logo" height="20"> Python.
 
 <div align="center" width="100">
 ## 👨‍💻 Languages and Tools:
