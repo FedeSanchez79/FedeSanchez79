@@ -38,7 +38,20 @@ Steadily growing into people management and recently into <img src="https://gith
       </table>
     </p>
   </div>
-
+  
+## BackEnd
+  <div align="center">
+    <p align="center">
+      <table>
+        <tr>
+          <td align="center">
+            <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="60" height="60">
+            <p> <b>Python</b> </p>      
+          </td>
+        </tr>
+      </table>
+    </p>
+  </div>
   
  ## Frameworks
 <div align="center">
