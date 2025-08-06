@@ -30,6 +30,10 @@ Steadily growing into people management and recently into <img src="https://gith
             <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60">
             <p> <b>Javascript</b> </p>      
           </td>
+          <td align="center">
+            <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="60" height="60">
+            <p> <b>Python</b> </p>      
+          </td>
         </tr>
       </table>
     </p>
