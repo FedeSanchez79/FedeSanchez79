@@ -1,6 +1,6 @@
 <img src="/images/portrait.png" alt="Image showing my name, and muy knowledge">
 
-2+ years developing web sites and learning new skills. 
+4+ years developing web sites and learning new skills. 
 
 Fast learner and eager to explore new technologies. Able to switch between perfectionism and pragmatism. Believer in agile software development, team work and Clean Code. Always questioning the status quo and wanting to improve. Able and willing to think outside the box.
 
